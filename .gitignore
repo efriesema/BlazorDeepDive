@@ -1,0 +1,17 @@
+# .NET Core
+*.obj
+*.dll
+*.exe
+*.pdb
+*.user
+*.vs/
+/.vscode
+/.suo
+/.cache
+/.bak
+bin/ 
+obj/
+Dockerfile.user
+*/bin
+*/obj
+*.userprefs
